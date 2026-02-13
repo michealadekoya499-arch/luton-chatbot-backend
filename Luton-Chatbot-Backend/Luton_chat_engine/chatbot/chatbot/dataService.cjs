@@ -51,6 +51,46 @@ async function getUpcomingFixtures(limit = 5) {
   return fixtures.slice(0, limit);
 }
 
+async function findFixtureByOpponent(name) {
+  const fixtures = await getFixtures();
+
+  if (!name) return null;
+
+  return fixtures.find(f =>
+    f.homeTeam.toLowerCase().includes(name.toLowerCase()) ||
+    f.awayTeam.toLowerCase().includes(name.toLowerCase())
+  ) || null;
+}
+
+async function findResultByOpponent(name) {
+  const results = await getResults();
+
+  if (!name) return null;
+
+  return results.find(r =>
+    r.homeTeam.toLowerCase().includes(name.toLowerCase()) ||
+    r.awayTeam.toLowerCase().includes(name.toLowerCase())
+  ) || null;
+}
+
+async function getUpcomingFixtures(limit = 3) {
+  const fixtures = await getFixtures();
+  return fixtures.slice(0, limit);
+}
+
+async function getDataStats() {
+  const fixtures = await getFixtures();
+  const results = await getResults();
+  const faqs = await getFaq();
+  const clubInfo = await getClubInfo();
+
+  return {
+    fixturesCount: fixtures.length,
+    resultsCount: results.length,
+    faqsCount: faqs.length,
+    hasClubInfo: !!clubInfo
+  };
+}
 
 async function searchFaq(message) {
   const msg = (message || "").toLowerCase();
@@ -90,7 +130,9 @@ module.exports = {
   getFaq,
   getNextFixture,
   getLatestResult,
-  getUpcomingFixtures,
   searchFaq,
-  clearCache,
+  findFixtureByOpponent,
+  findResultByOpponent,
+  getUpcomingFixtures,
+  getDataStats
 };
