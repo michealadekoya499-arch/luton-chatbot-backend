@@ -1,0 +1,8 @@
+{
+  "name": "luton-chatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node chatbot/chatEngine.test.js"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tickets",
+    "question": "How do I buy tickets?",
+    "keywords": ["ticket", "tickets", "buy", "purchase", "booking", "price"],
+    "answer": "Tickets are usually bought through the club’s official ticketing system. Availability may depend on membership and match demand."
+  },
+  {
+    "id": "stadium",
+    "question": "Where is the stadium?",
+    "keywords": ["stadium", "ground", "address", "kenilworth", "road"],
+    "answer": "Luton Town play home matches at Kenilworth Road in Luton."
+  },
+  {
+    "id": "shop",
+    "question": "Where can I buy merchandise?",
+    "keywords": ["shop", "store", "merch", "merchandise", "kit", "shirt"],
+    "answer": "Merchandise is available via the club’s official online shop and sometimes in-store on matchdays."
+  },
+  {
+  "id": "membership",
+  "question": "Do I need a membership to buy tickets?",
+  "keywords": ["membership", "member", "priority", "season ticket"],
+  "answer": "Some matches may require membership for early access or priority buying, depending on demand."
+  },
+  {
+  "id": "kickoff",
+  "question": "What time is kickoff?",
+  "keywords": ["kickoff", "ko", "start time", "time"],
+  "answer": "Kickoff time depends on the fixture. Ask 'next fixture' or name the opponent and I’ll tell you the scheduled time if available."
+  },
+  {
+  "id": "location",
+  "question": "Where is Luton Town FC based?",
+  "keywords": ["based", "location", "city", "where"],
+  "answer": "Luton Town FC is based in Luton, Bedfordshire."
+  },
+  {
+  "id": "nickname",
+  "question": "What is the club nickname?",
+  "keywords": ["nickname", "called", "name", "hatters"],
+  "answer": "Luton Town are known as 'The Hatters'."
+  },
+  {
+  "id": "contact",
+  "question": "How can I contact the club?",
+  "keywords": ["contact", "email", "phone", "reach"],
+  "answer": "You can contact the club through the official website contact page."
+  }
+
+]

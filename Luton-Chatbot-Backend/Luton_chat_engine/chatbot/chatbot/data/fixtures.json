@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2026-02-07",
+    "time": "12:31",
+    "competition": "Championship",
+    "homeTeam": "Luton Town",
+    "awayTeam": "Bradford city",
+    "venue": "Kenilworth Road",
+    "status": "scheduled"
+  },
+  {
+  "date": "2026-03-14",
+  "time": "15:00",
+  "competition": "Championship",
+  "homeTeam": "Cardiff city",
+  "awayTeam": "Luton Town",
+  "venue": "Cardiff city stadium",
+  "status": "scheduled"
+  }
+
+]
