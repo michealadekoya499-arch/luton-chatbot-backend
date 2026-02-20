@@ -44,9 +44,8 @@ async function getNextFixture() {
 async function getLatestResult() {
   const results = await getResults();
   const completed = results.filter(r => r.status === "completed");
-  return completed[0] || null; // assuming latest is first
+  return completed[0] || null; 
 }
-
 
 async function getUpcomingFixtures(limit = 5) {
   const fixtures = await getFixtures();
