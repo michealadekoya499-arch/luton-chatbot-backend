@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "fixtureId": "2275042",
+    "kickoffUTC": "2026-02-28T15:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Exeter City",
+    "awayTeam": "Bolton Wanderers",
+    "venue": "St James Park Exeter",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275057",
+    "kickoffUTC": "2026-03-07T15:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Wycombe Wanderers",
+    "venue": "Toughsheet Community Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275073",
+    "kickoffUTC": "2026-03-14T12:30:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Rotherham United",
+    "awayTeam": "Bolton Wanderers",
+    "venue": "AESSEAL New York Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275081",
+    "kickoffUTC": "2026-03-17T19:45:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Doncaster Rovers",
+    "venue": "Toughsheet Community Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275098",
+    "kickoffUTC": "2026-03-21T15:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Port Vale",
+    "awayTeam": "Bolton Wanderers",
+    "venue": "Vale Park",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275103",
+    "kickoffUTC": "2026-03-28T15:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Stevenage",
+    "venue": "Toughsheet Community Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275121",
+    "kickoffUTC": "2026-04-03T14:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Plymouth Argyle",
+    "awayTeam": "Bolton Wanderers",
+    "venue": "Home Park",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275128",
+    "kickoffUTC": "2026-04-06T14:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Stockport County",
+    "venue": "Toughsheet Community Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275149",
+    "kickoffUTC": "2026-04-11T14:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Cardiff City",
+    "awayTeam": "Bolton Wanderers",
+    "venue": "Cardiff City Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  },
+  {
+    "fixtureId": "2275152",
+    "kickoffUTC": "2026-04-18T14:00:00Z",
+    "competition": "English League 1",
+    "season": "2025-2026",
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Huddersfield Town",
+    "venue": "Toughsheet Community Stadium",
+    "statusShort": "NS",
+    "source": "thesportsdb"
+  }
+]

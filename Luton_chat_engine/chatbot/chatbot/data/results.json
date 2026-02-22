@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "fixtureId": "2275033",
+    "date": "2026-02-21",
+    "competition": "English League 1",
+    "homeTeam": "Luton Town",
+    "awayTeam": "Burton Albion",
+    "score": "1-1",
+    "status": "completed",
+    "source": "thesportsdb"
+  }
+]
